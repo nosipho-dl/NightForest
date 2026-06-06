@@ -1,0 +1,6 @@
+{
+  "name": "The Night Forest",
+  "description": "A 2D top-down dark fantasy action-adventure game built with Phaser 3. Guide Jama through the Haunted Forest to rescue his sister Khwezi from the Night Spirits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
